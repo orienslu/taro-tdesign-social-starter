@@ -17,6 +17,7 @@ export default function Index() {
       <View className='h-14 bg-linear-to-t from-sky-500 to-indigo-500'></View>
       <View className='h-14 bg-linear-to-bl from-violet-500 to-fuchsia-500'></View>
       <View className='h-14 bg-linear-65 from-purple-500 to-pink-500'></View>
+      <t-button>xxx</t-button>
     </View>
 
   )
