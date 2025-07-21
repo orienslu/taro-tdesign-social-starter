@@ -61,7 +61,8 @@
     "@tarojs/shared": "4.1.1",
     "@tarojs/taro": "4.1.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "tdesign-miniprogram": "^1.9.7"
   },
   "devDependencies": {
     "@babel/core": "^7.27.4",
